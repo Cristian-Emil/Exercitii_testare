@@ -27,6 +27,4 @@ public class Calcul_factorial {
         return output;
     }
 
-
-
 }

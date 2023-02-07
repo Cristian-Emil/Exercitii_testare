@@ -25,4 +25,5 @@ sau definim ca in linia de mai jos
             n2 = n3;
         }
     }
+
 }

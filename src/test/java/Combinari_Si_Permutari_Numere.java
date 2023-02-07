@@ -25,4 +25,5 @@ public class Combinari_Si_Permutari_Numere {
         System.out.print("\n");
         System.out.print("nNPR = " +(fact(n)/(fact(n-m))));
     }
+
 }
