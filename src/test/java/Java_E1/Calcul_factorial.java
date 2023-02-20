@@ -1,3 +1,5 @@
+package Java_E1;
+
 import java.util.Scanner;
 
 public class Calcul_factorial {

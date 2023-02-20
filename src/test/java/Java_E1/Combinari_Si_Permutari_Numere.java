@@ -1,3 +1,5 @@
+package Java_E1;
+
 import java.util.Scanner;
 
 public class Combinari_Si_Permutari_Numere {

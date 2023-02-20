@@ -1,3 +1,5 @@
+package Java_E1;
+
 public class Sirul_Fibonacci_V2 {
 
     //  Sirul lui Fibonacci porneste de la N0 = 0 si N1 = 1. Se aduna cifra N si N+1 ca sa obtinem N+2 => N2 = N1+N0
