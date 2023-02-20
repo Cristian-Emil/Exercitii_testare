@@ -20,4 +20,5 @@ public class A_Variabile {
         System.out.println(text.toLowerCase(). contains ("java")); // el tipareste cu litere mari
 
     }
+
 }

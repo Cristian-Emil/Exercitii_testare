@@ -16,10 +16,6 @@ public class B2_Linii_Cod {
             System.out.println("" + z + " de 6 ori");
             }
 
-}
-
-
-
-
+    }
 
 }

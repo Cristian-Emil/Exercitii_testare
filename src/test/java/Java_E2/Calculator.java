@@ -24,4 +24,5 @@ public class Calculator {
    static int SumaDouaNumere( int x, int y){
        return x + y;
    }
+
 }

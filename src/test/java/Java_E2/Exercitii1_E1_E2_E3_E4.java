@@ -41,4 +41,5 @@ public class Exercitii1_E1_E2_E3_E4 {
             String a = introducere.nextLine();
             System.out.println("Citim textul de la tastatura =  " + a);
         }
+
 }

@@ -16,4 +16,5 @@ public class B3_Operatii_Simple {
             int B = numar * numar * numar;
         return B;
     }
+
 }

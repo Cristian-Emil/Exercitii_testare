@@ -44,6 +44,7 @@ public class Calcule2 {
     public static double generam_nr_aleatoriu(double minim, double maxim) {
         return Math.random() * (maxim - minim) + minim;
     }
+
 }
 
 

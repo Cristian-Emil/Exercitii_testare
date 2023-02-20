@@ -24,5 +24,6 @@ public class Calcule1 {
     static int inmultirea_2_nr(int n1, int n2) {
         return n1 * n2;
     }
+
 }
 

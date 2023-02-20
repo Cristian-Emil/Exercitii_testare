@@ -11,4 +11,5 @@ public class B1_Linie_Cod {
             System.out.println(2);
             System.out.println(0);
         }
+
 }
