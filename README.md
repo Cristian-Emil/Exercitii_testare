@@ -8,4 +8,4 @@ The exercises Java_E4 to E7 are various intermediate level examples that show ho
 The files E1 to E 3 are the ones presented in EXERCITII_JAVA to which some small (unimportant) modifications were made.
 We wish you the best in your studies.
 
-In viitor daca o sa constatam ca E1-E3 nu sunt necesare aici, acestea o sa fie eliminate / In the future, if we find that E1-E3 are not needed here, they will be removed
+In viitor, daca o sa constatam ca E1-E3 nu sunt necesare aici, acestea o sa fie eliminate / In the future, if we find that E1-E3 are not needed here, they will be removed
