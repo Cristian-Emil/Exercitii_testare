@@ -1,5 +1,8 @@
 package Java_E3;
 
+//  DEFINIREA UNEI CLASE. CUM FUNCTIONEAZA CONDITIA "EXTENDS" PENTRU CLASE
+//  CUM SE EXTINDE O CLASA DIN ALTA - citetste si vezi mai jos
+
 class A{
     int a = 10;
     int b = 20;
