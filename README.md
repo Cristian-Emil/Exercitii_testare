@@ -11,5 +11,5 @@ Files E1 to E 3 are those presented in EXERCITII_JAVA to which some small modifi
 We wish you the best in your studies.
 
 RO/EN
-- In viitor, daca o sa constatam ca E1-E3 nu sunt necesare aici, acestea o sa fie eliminate 
-- In the future, if we find that E1-E3 are not needed here, they will be removed
+- In viitor, daca o sa constatam ca E1-E3 nu sunt necesare, acestea o sa fie eliminate 
+- In the future, if we find that E1-E3 are not needed, they will be removed
